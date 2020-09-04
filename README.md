@@ -2,6 +2,7 @@
 
 ## Sobre Google Drive Api
 
+La API de Drive le permite crear aplicaciones móviles, web y de escritorio que leen, escriben y sincronizan archivos en Google Drive.
 
 ## Creado para GDG Misantla
 
